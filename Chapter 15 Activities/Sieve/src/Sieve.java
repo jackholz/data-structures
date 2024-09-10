@@ -37,7 +37,7 @@ public class Sieve
             }
             
         }
-        System.out.println("Here is a list of all prime integers up to the selected value "+silly);
+        System.out.println("Here is a list of all prime integers up to the selected value, "+silly);
 
 
 
